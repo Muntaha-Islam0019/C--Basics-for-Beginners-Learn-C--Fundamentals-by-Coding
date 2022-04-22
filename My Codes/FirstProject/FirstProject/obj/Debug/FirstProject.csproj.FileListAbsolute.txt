@@ -1,0 +1,7 @@
+C:\Users\U1119912\OneDrive - IQVIA\Documents\My Courses\C#-Basics-for-Beginners-Learn-C#-Fundamentals-by-Coding\My Codes\FirstProject\FirstProject\bin\Debug\FirstProject.exe.config
+C:\Users\U1119912\OneDrive - IQVIA\Documents\My Courses\C#-Basics-for-Beginners-Learn-C#-Fundamentals-by-Coding\My Codes\FirstProject\FirstProject\bin\Debug\FirstProject.exe
+C:\Users\U1119912\OneDrive - IQVIA\Documents\My Courses\C#-Basics-for-Beginners-Learn-C#-Fundamentals-by-Coding\My Codes\FirstProject\FirstProject\bin\Debug\FirstProject.pdb
+C:\Users\U1119912\OneDrive - IQVIA\Documents\My Courses\C#-Basics-for-Beginners-Learn-C#-Fundamentals-by-Coding\My Codes\FirstProject\FirstProject\obj\Debug\FirstProject.csprojAssemblyReference.cache
+C:\Users\U1119912\OneDrive - IQVIA\Documents\My Courses\C#-Basics-for-Beginners-Learn-C#-Fundamentals-by-Coding\My Codes\FirstProject\FirstProject\obj\Debug\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\U1119912\OneDrive - IQVIA\Documents\My Courses\C#-Basics-for-Beginners-Learn-C#-Fundamentals-by-Coding\My Codes\FirstProject\FirstProject\obj\Debug\FirstProject.exe
+C:\Users\U1119912\OneDrive - IQVIA\Documents\My Courses\C#-Basics-for-Beginners-Learn-C#-Fundamentals-by-Coding\My Codes\FirstProject\FirstProject\obj\Debug\FirstProject.pdb
